@@ -1,4 +1,3 @@
-
 ---
 title: "Convert from .csv to a Shapefile in R"
 teaching: 40
