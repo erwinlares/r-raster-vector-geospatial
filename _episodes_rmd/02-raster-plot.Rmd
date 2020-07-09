@@ -19,7 +19,7 @@ source: Rmd
 ```{r setup, echo=FALSE}
 source("../bin/chunk-options.R")
 source("../setup.R")
-knitr_fig_path("../_episodes/02-")
+knitr_fig_path("02-")
 ```
 
 ```{r load-libraries, echo = FALSE, results='hide', message = FALSE, warning = FALSE}
