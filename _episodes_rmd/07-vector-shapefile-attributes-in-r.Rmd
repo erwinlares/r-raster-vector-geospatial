@@ -72,7 +72,7 @@ To see a summary of all of the metadata associated with our `point_HARV` object,
 point_HARV
 ```
 
-We can use the `ncol` function to count the number of attributes associated with a spatial object too. Note that the geometry is just another column and counts towards the total.
+We can use the `ncol()` function to count the number of attributes associated with a spatial object too. Note that the geometry is just another column and counts towards the total.
 
 ```{r shapefile-attributes}
 ncol(lines_HARV)
